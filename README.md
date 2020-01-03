@@ -11,5 +11,12 @@ pyAISound - an deep-learning speech processing library. It includes **speech enh
 ====================================================================================================
 ```
 
+## 1. Usage
+```python
+import pyAISound as pas
+```
+
 
 *We will work on this project for a long time. You can pay close attention to our recent work and join us if interested. Thanks for your attention!* 
+
+
