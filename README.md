@@ -17,6 +17,6 @@ import pyAISound as pas
 ```
 
 
-*We will work on this project for a long time. You can pay close attention to our recent work and join us if interested. Thanks for your attention!* 
+*We will work on this project for a long time. You can pay close attention to our recent work or join us if interested. Thanks for your attention!* 
 
 
