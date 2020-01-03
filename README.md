@@ -1,5 +1,5 @@
 # pyAISound
-pyAISound - an deep-learning speech processing library. It includes speech enhancement, multi-talker speech separation, sound source localization, and sound de-reverberation.
+pyAISound - an deep-learning speech processing library. It includes **speech enhancement**, **multi-talker speech separation**, **sound source localization**, and **sound de-reverberation**.
 
 ```
 ====================================================================================================
@@ -11,3 +11,5 @@ pyAISound - an deep-learning speech processing library. It includes speech enhan
 ====================================================================================================
 ```
 
+
+*We will work on this project for a long time. You can pay close attention to our recent work and join us if interested. Thanks for your attention!* 
